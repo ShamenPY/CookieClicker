@@ -9,8 +9,6 @@ class upgrades():
         self.cookie_per_second = cookies_per_second
         self.quantity = quantity
 
-x = 0
-
 
 Cursor = upgrades()
 Cursor.cost_upgrade = 25
